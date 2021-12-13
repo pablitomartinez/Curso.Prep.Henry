@@ -301,6 +301,7 @@ function restarDosNumeros(a, b) {
 var diferenciaDeResta = restarDosNumeros(10, 9);
 console.log(diferenciaDeResta); // 1
 console.log(diferencia); // undefined
+
 ```
 
 Podemos ver que la diferencia se establece dentro de la función. La variable dentro de la función solo pertenece dentro de la función.

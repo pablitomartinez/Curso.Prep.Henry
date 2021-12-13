@@ -1,0 +1,25 @@
+variables:
+    sirve para darle valor a un bloque de texto, este almacenara un valor, por ejemplo:
+    var nombre = "Pablo"
+Strings:
+    son bloques de textos que siempre tienen que ir con comillas, por ejemplo:
+    var nombreDeMascotas= "Olivia e Indio"
+Funciones (argumentos, return)
+    Argumentos: ellos son los que van dentro de los () en una función, ejemplo: 
+        function sumarDosNumeros(a,b): // a y b son los argumentos
+            {
+                var sumar = a + b;
+                return suma;
+            } 
+    return: es la unica forma de devolver los datos de la Funcion, ejemplo:
+        function dividirDosNumeros(a, b) {
+            var producto = a / b;
+            return producto;
+Declaracion "if":
+    if: es esa declaracion que compara, por ejemplo:
+    function puedeManejar(edad);{      edad es un argumento, aqui colocara su edad el usuario 
+        if (edad>18);                  if compara 
+        return true;
+Valores boeleanos: es una cosa o la otra
+    true: verdadero        if (24>18) // 24 es mayor que 18, es true
+    false: falso      }    if (17>18) // 17 no es mayor que 18, es false
